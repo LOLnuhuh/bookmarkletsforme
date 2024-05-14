@@ -2,7 +2,7 @@
     var count = 0;
     var list = "";
     var toget = "";
-    var url = "https://raw.githubusercontent.com/LOLnuhuh/bookmarkletsforme/tree/main/";
+    var url = "https://raw.githubusercontent.com/LOLnuhuh/bookmarkletsforme/main/";
     const autocomplete = document.getElementById("autocomplete");
     const resultsHTML = document.getElementById("results");
     const iframe = document.getElementById("frame");
