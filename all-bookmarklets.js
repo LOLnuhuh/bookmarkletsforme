@@ -1,7 +1,7 @@
 function windwow() {
   var list = "";
   var toget = "";
-  var url = "https://raw.githubusercontent.com/LOLnuhuh/bookmarkletsforme/tree/main/";
+  var url = "https://raw.githubusercontent.com/LOLnuhuh/bookmarkletsforme/main/";
 
   function getlist(initial) {
     let out = [];
